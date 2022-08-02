@@ -5,4 +5,4 @@ Python Project (GUI application) Kivy and KivyMD
 ### It is a desktop application made with python front-end library kivy and kivy md and mysql database.
 
 ### MADE BY : GRACY PATEL
-### UNDER THE GUIDANCE OF SACHIN PATEL
+### UNDER THE GUIDANCE OF PROF. SACHIN PATEL
